@@ -26,3 +26,29 @@
 
 ![image](https://user-images.githubusercontent.com/36199753/140959452-1c2613a7-e4f2-4d16-bd25-1c84c89dd734.png)
 
+![image](https://user-images.githubusercontent.com/36199753/140959701-cd782c2a-98db-428b-890e-b06ef7b1c878.png)
+
+![image](https://user-images.githubusercontent.com/36199753/140959781-4e29d0f2-1b8b-49cd-9d98-3d003ff6f487.png)
+
+![image](https://user-images.githubusercontent.com/36199753/140959855-1cfe39a9-e2a6-4d53-a1d3-7ccde5d5c6ba.png)
+
+![image](https://user-images.githubusercontent.com/36199753/140959901-08683058-d7e3-4726-88f0-75d25135db55.png)
+
+![image](https://user-images.githubusercontent.com/36199753/140960038-ed48e39a-93bc-4222-9c3a-d4ee1e192d5a.png)
+
+![image](https://user-images.githubusercontent.com/36199753/140960129-67820645-e096-441e-8d33-893c514316cb.png)
+
+
+![image](https://user-images.githubusercontent.com/36199753/140960193-71a84317-2fd1-47cd-9ac3-3949a682b5b3.png)
+
+![image](https://user-images.githubusercontent.com/36199753/140960873-39006da5-f211-452d-a92a-4b94aaaac2cb.png)
+
+![image](https://user-images.githubusercontent.com/36199753/140960968-a4b8f2d8-9fd1-4cef-8c11-41a5570cab58.png)
+
+![image](https://user-images.githubusercontent.com/36199753/140967175-c46052d3-94f1-47cb-9bfc-5cea81e52db7.png)
+
+mono -> un seul element
+flux -> multiple element
+![image](https://user-images.githubusercontent.com/36199753/140967786-94893948-711f-46a0-9fb0-f771fd3effa3.png)
+
+

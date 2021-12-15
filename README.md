@@ -67,3 +67,28 @@ avec reactive programming : http://localhost:8080/student/stream >on obtient le 
 ![image](https://user-images.githubusercontent.com/36199753/146197243-f5246e27-058d-4837-bd91-bc8c4586b7d1.png)
 
 
+Rest API Using Functional Endpoint | Spring Boot Webflux : 
+![image](https://user-images.githubusercontent.com/36199753/146222208-81fdd0e6-c809-4ca9-8e08-ac2108a7aca9.png)
+
+![image](https://user-images.githubusercontent.com/36199753/146222254-244b934c-3cbe-42b2-9738-315f4d03b1ba.png)
+
+
+route remplace @getmapping , permet der creer des endpoint en utilisant serverrequest et serverresponse 
+exemple : 
+![image](https://user-images.githubusercontent.com/36199753/146221740-3c746f24-decc-4685-872f-01d8376b0fcd.png)
+
+exemple get students 
+![image](https://user-images.githubusercontent.com/36199753/146222114-499a1b5a-ec36-41c2-9913-dab1bb8aa595.png)
+
+get studing avec duration (non blocking ) affichage de student un par un 
+![image](https://user-images.githubusercontent.com/36199753/146222089-8b530e68-1316-44c9-b9f7-66a922ed671f.png)
+
+aussi on peut ajouter path varibale dans les routes 
+![image](https://user-images.githubusercontent.com/36199753/146221962-7c6914d9-1b55-4a16-96c5-e38ff5b84751.png)
+
+
+
+et aussi utiliser de requete de type post : 
+![image](https://user-images.githubusercontent.com/36199753/146222160-35b5f456-887f-4415-ad26-6fd69ffe0e6c.png)
+
+

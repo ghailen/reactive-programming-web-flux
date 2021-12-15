@@ -51,4 +51,16 @@ mono -> un seul element
 flux -> multiple element
 ![image](https://user-images.githubusercontent.com/36199753/140967786-94893948-711f-46a0-9fb0-f771fd3effa3.png)
 
+![image](https://user-images.githubusercontent.com/36199753/146194058-4621798b-0cec-4409-abfb-7c324aefed32.png)
+
+![image](https://user-images.githubusercontent.com/36199753/146197209-4cfb5de2-0041-4878-8508-6b9df961342c.png)
+
+![image](https://user-images.githubusercontent.com/36199753/146197521-5b9ae1b3-a99f-4899-85da-1698d5ba4266.png)
+
+
+sans reactive programming : http://localhost:8080/student/  => on obtient le resultat que si les 20 secondes passent
+avec reactive programming : http://localhost:8080/student/stream >on obtient le resultat un par un sans attendre les 20 secondes 
+
+![image](https://user-images.githubusercontent.com/36199753/146197243-f5246e27-058d-4837-bd91-bc8c4586b7d1.png)
+
 

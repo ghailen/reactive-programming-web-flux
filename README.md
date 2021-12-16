@@ -91,4 +91,13 @@ aussi on peut ajouter path varibale dans les routes
 et aussi utiliser de requete de type post : 
 ![image](https://user-images.githubusercontent.com/36199753/146222160-35b5f456-887f-4415-ad26-6fd69ffe0e6c.png)
 
+Open API documentation : 
+http://localhost:8080/swagger-doc/v3/api-docs
+![image](https://user-images.githubusercontent.com/36199753/146451206-8520ebfd-fcb1-448b-9e19-fe7e1fa9aa22.png)
+
+http://localhost:8080/swagger-doc/webjars/swagger-ui/index.html?configUrl=/swagger-doc/v3/api-docs/swagger-config
+
+![image](https://user-images.githubusercontent.com/36199753/146451286-a7ca9d2c-4c9d-415f-81b9-6a06ea8fdefd.png)
+
+
 

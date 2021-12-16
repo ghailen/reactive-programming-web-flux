@@ -52,3 +52,52 @@ flux -> multiple element
 ![image](https://user-images.githubusercontent.com/36199753/140967786-94893948-711f-46a0-9fb0-f771fd3effa3.png)
 
 
+Exemple synchronus et asynchronous : 
+
+![image](https://user-images.githubusercontent.com/36199753/146194058-4621798b-0cec-4409-abfb-7c324aefed32.png)
+
+![image](https://user-images.githubusercontent.com/36199753/146197209-4cfb5de2-0041-4878-8508-6b9df961342c.png)
+
+![image](https://user-images.githubusercontent.com/36199753/146197521-5b9ae1b3-a99f-4899-85da-1698d5ba4266.png)
+
+
+sans reactive programming : http://localhost:8080/student/  => on obtient le resultat que si les 20 secondes passent
+avec reactive programming : http://localhost:8080/student/stream >on obtient le resultat un par un sans attendre les 20 secondes 
+
+![image](https://user-images.githubusercontent.com/36199753/146197243-f5246e27-058d-4837-bd91-bc8c4586b7d1.png)
+
+
+Rest API Using Functional Endpoint | Spring Boot Webflux : 
+![image](https://user-images.githubusercontent.com/36199753/146222208-81fdd0e6-c809-4ca9-8e08-ac2108a7aca9.png)
+
+![image](https://user-images.githubusercontent.com/36199753/146222254-244b934c-3cbe-42b2-9738-315f4d03b1ba.png)
+
+
+route remplace @getmapping , permet der creer des endpoint en utilisant serverrequest et serverresponse 
+exemple : 
+![image](https://user-images.githubusercontent.com/36199753/146221740-3c746f24-decc-4685-872f-01d8376b0fcd.png)
+
+exemple get students 
+![image](https://user-images.githubusercontent.com/36199753/146222114-499a1b5a-ec36-41c2-9913-dab1bb8aa595.png)
+
+get studing avec duration (non blocking ) affichage de student un par un 
+![image](https://user-images.githubusercontent.com/36199753/146222089-8b530e68-1316-44c9-b9f7-66a922ed671f.png)
+
+aussi on peut ajouter path varibale dans les routes 
+![image](https://user-images.githubusercontent.com/36199753/146221962-7c6914d9-1b55-4a16-96c5-e38ff5b84751.png)
+
+
+
+et aussi utiliser de requete de type post : 
+![image](https://user-images.githubusercontent.com/36199753/146222160-35b5f456-887f-4415-ad26-6fd69ffe0e6c.png)
+
+Open API documentation : 
+http://localhost:8080/swagger-doc/v3/api-docs
+![image](https://user-images.githubusercontent.com/36199753/146451206-8520ebfd-fcb1-448b-9e19-fe7e1fa9aa22.png)
+
+http://localhost:8080/swagger-doc/webjars/swagger-ui/index.html?configUrl=/swagger-doc/v3/api-docs/swagger-config
+
+![image](https://user-images.githubusercontent.com/36199753/146451286-a7ca9d2c-4c9d-415f-81b9-6a06ea8fdefd.png)
+
+
+
